@@ -128,8 +128,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Contributing
 
-Contributions are welcome! Please submit a pull request or open an issue on the [GitHub repository](https://github.com/DinomNet/Dinom-SHA3).
+Contributions are welcome!
+Please submit a pull request or open an issue on the [GitHub repository](https://github.com/DinomNet/Dinom-SHA3/issues).
 
 ## Contact
 
-For questions or feedback, please visit the [GitHub repository](https://github.com/DinomNet/Dinom-SHA3) and open an issue.
+For questions or feedback, please visit the [repository issues](https://github.com/DinomNet/Dinom-SHA3/issues) and open an issue.
